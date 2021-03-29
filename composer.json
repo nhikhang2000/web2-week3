@@ -1,21 +1,22 @@
+{
 	"name": "nhikhang2000/web2-week3",	
 	"description": "Create text",	
 	"keywords": [	
 	],	
 	"authors": [	
-	{	
-	"name": "nhikhang2000",	
-	"email": "trannhikhang964587@gmail.com",	
-	"homepage": "http://nhikhang2000.com"	
-	}	
+		{	
+		"name": "nhikhang2000",	
+		"email": "trannhikhang964587@gmail.com",	
+		"homepage": "http://tailieuweb.com"	
+		}	
 	],	
 	"license": "MIT",	
 	"require": {	
 	},	
 	"autoload": {	
-	"psr-4": {	
-	"Nhikhang2000\\Backend\\": "/"	
-	}	
+		"psr-4": {	
+			"nhikhang2000\\Backend\\": "/"	
+		}	
 	},	
 	"minimum-stability": "dev"	
-	}	
+}	

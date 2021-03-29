@@ -1,0 +1,21 @@
+	"name": "nhikhang2000/backend_web_week3",	
+	"description": "Create text",	
+	"keywords": [	
+	],	
+	"authors": [	
+	{	
+	"name": "nhikhang2000",	
+	"email": "trannhikhang964587@gmail.com",	
+	"homepage": "http://nhikhang2000.com"	
+	}	
+	],	
+	"license": "MIT",	
+	"require": {	
+	},	
+	"autoload": {	
+	"psr-4": {	
+	"Nhikhang2000\\Backend\\": "/"	
+	}	
+	},	
+	"minimum-stability": "dev"	
+	}	

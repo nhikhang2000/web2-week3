@@ -12,6 +12,8 @@
 	],	
 	"license": "MIT",	
 	"require": {	
+		"back-end/test-composer",
+		"dangthaihuy2001/backend"
 	},	
 	"autoload": {	
 		"psr-4": {	

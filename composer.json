@@ -12,7 +12,7 @@
 	],	
 	"license": "MIT",	
 	"require": {	
-		"back-end/test-composer",
+		"back-end/test-composer":"*",
 		"dangthaihuy2001/backend"
 	},	
 	"autoload": {	
